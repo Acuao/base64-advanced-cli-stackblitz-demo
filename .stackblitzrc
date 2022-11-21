@@ -1,3 +1,3 @@
 {
-  "startCommand": "npm install && mkdir _docs &&npx markdown-to-html-cli --source README.md --output _docs/index.html && npx http-server _docs && b64"
+  "startCommand": "npm install && b64"
 }
