@@ -29,4 +29,4 @@
 ■■  FULL Documentation  ■■
 ■■■■■■■■■■■■■■■■■■■■■■■■■■
 Find full documentation on the official github repo :
-https://github.com/Acuao/base64-advanced-cli
+https://github.com/Acuao/base64-advanced-cli#readme
